@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Temp Suite" verbose="1" thread-count="4" parallel="false">
+    <test name="just a test">
+        <classes>
+            <class name="TestRunner">
+            </class>
+        </classes>
+    </test>
+</suite>
